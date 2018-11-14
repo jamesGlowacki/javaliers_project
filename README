@@ -1,3 +1,5 @@
 this is a repository for javaliers project
 the initial goal of this project is to create a web scraping application
 which can gather up information on basketball plaeyers and teams
+
+we will be using http://www.espn.com/ as the target for the web scraping
