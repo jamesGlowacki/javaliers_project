@@ -165,5 +165,6 @@ class League:
 
 #get_teams()
 #t = Team("boston celtics", "bos", "http://www.espn.com/nba/team/roster/_/name/bos/boston-celtics")
-l = League("C:\\Users\\james\\Documents\\programming\\coding\\hackIowa\\League")
+#enter your path in path
+l = League("path")
 l.save_state()
