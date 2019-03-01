@@ -1,0 +1,12 @@
+1.) Retrieve individual players stats
+2.) group players based on position
+3.) add a tag system to make players easier to search
+4.) potentially add support for a fantasy type bracket
+5.) create a save function for the data
+6.) track stats for each game plot changes
+7.) log of last 3 games and last season this
+8.) rank by certain attribute points per game, etc
+9.) gather info from the players games
+10.) create a function to call info from specific teams/players
+11.) consider creating a data structure or using dictionaries
+    in order to simplify the searches
