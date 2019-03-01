@@ -1,6 +1,7 @@
 #first attempt at a web scraper which should
 #be used to get stats about various basketball
-#players
+#players 
+#note load function is not fully functional for now
 
 import urllib
 import urllib.request
